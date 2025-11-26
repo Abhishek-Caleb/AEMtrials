@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--aem-boilerplate-xwalk--aemsitestrial.aem.page/
-- Live: https://main--aem-boilerplate-xwalk--aemsitestrial.aem.live/
+- Preview: https://main--livelybadger15019--aemsitestrial.aem.page/
+- Live: https://main--livelybadger15019--aemsitestrial.aem.live/
 
 ## Documentation
 
