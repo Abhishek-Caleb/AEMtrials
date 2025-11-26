@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--livelybadger15019--aemsitestrial.aem.page/
-- Live: https://main--livelybadger15019--aemsitestrial.aem.live/
+- Preview: https://main--aemtrials--abhishek-caleb.aem.page/
+- Live: https://main--aemtrials--abhishek-caleb.aem.live/
 
 ## Documentation
 
